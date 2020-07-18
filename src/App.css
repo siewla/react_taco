@@ -1,0 +1,17 @@
+.app-header {
+    background-color: aquamarine;
+    min-height: 5vh;
+    font-size: 4vh;
+    text-align: center;
+}
+
+.app-footer{
+    background-color: aquamarine;
+    min-height: 3vh;
+    font-size: 2vh;
+    text-align: center;
+}
+
+.random-button{
+    margin: 2vh;
+}

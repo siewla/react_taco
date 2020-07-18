@@ -40,7 +40,7 @@ export class RandomTaco extends Component {
         )} else {
             return(
                 <div>
-                    <button onClick={() => this.handleClick()}>New Taco</button>
+                    <button className="random-button" onClick={() => this.handleClick()}>New Taco</button>
                     <TacoCard taco ={this.state.taco}/> 
                 </div>
             )
