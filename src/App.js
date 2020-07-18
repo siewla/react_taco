@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import RandomTaco from './components/RandomTaco'
 
 function App() {
   return (
     <div>
-      <h1>hello taco</h1>
+      <RandomTaco />
     </div>
   );
 }
