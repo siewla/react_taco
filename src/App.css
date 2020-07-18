@@ -15,3 +15,8 @@
 .random-button{
     margin: 2vh;
 }
+
+.title{
+    text-align: center;
+    background-color: lightcoral;
+}
