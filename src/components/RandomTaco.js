@@ -11,14 +11,25 @@ export class RandomTaco extends Component {
         }
     }
 
-    componentDidMount (){
-        fetch(this.state.baseURL)
-            .then((response) => response.json ())
-            .then((data) => {
-                this.setState({taco:data})
-            });
+    fetchTaco = async () => {
+        try{
+            const response = await fetch (this.state.baseURL);
+            const data = await response.json();
+            this.setState({
+                taco:data
+            })
+        } catch (error){
+            console.log(error)
+        }
     }
 
+    componentDidMount (){
+        this.fetchTaco();
+    }
+
+    handleClick = () =>{
+        this.fetchTaco();
+    }
 
     render() {
         if (this.state.taco===null){
@@ -29,7 +40,8 @@ export class RandomTaco extends Component {
         )} else {
             return(
                 <div>
-                    <TacoCard taco ={this.state.taco}/>
+                    <button onClick={() => this.handleClick()}>New Taco</button>
+                    <TacoCard taco ={this.state.taco}/> 
                 </div>
             )
         }
