@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "189233682ddb3b1450e90f5861bfd607",
+    "revision": "59e3ced7999a293d564f4862d4a9990c",
     "url": "/react_taco/index.html"
   },
   {
-    "revision": "ec3fb9939e46c4dbef43",
+    "revision": "e0b30b65c542ee80fedb",
     "url": "/react_taco/static/css/main.5facb584.chunk.css"
   },
   {
-    "revision": "1858dda22a7957e677b8",
-    "url": "/react_taco/static/js/2.a3fc3ffc.chunk.js"
+    "revision": "f6141f8179d3d4c23d0b",
+    "url": "/react_taco/static/js/2.e279b4ef.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/react_taco/static/js/2.a3fc3ffc.chunk.js.LICENSE.txt"
+    "url": "/react_taco/static/js/2.e279b4ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec3fb9939e46c4dbef43",
-    "url": "/react_taco/static/js/main.849cc7a4.chunk.js"
+    "revision": "e0b30b65c542ee80fedb",
+    "url": "/react_taco/static/js/main.bb8f132e.chunk.js"
   },
   {
     "revision": "26a03f82f05c526c0583",

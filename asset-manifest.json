@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react_taco/static/css/main.5facb584.chunk.css",
-    "main.js": "/react_taco/static/js/main.849cc7a4.chunk.js",
-    "main.js.map": "/react_taco/static/js/main.849cc7a4.chunk.js.map",
+    "main.js": "/react_taco/static/js/main.bb8f132e.chunk.js",
+    "main.js.map": "/react_taco/static/js/main.bb8f132e.chunk.js.map",
     "runtime-main.js": "/react_taco/static/js/runtime-main.c42bc93c.js",
     "runtime-main.js.map": "/react_taco/static/js/runtime-main.c42bc93c.js.map",
-    "static/js/2.a3fc3ffc.chunk.js": "/react_taco/static/js/2.a3fc3ffc.chunk.js",
-    "static/js/2.a3fc3ffc.chunk.js.map": "/react_taco/static/js/2.a3fc3ffc.chunk.js.map",
+    "static/js/2.e279b4ef.chunk.js": "/react_taco/static/js/2.e279b4ef.chunk.js",
+    "static/js/2.e279b4ef.chunk.js.map": "/react_taco/static/js/2.e279b4ef.chunk.js.map",
     "index.html": "/react_taco/index.html",
-    "precache-manifest.419fca763089941f418db9a466f9d51d.js": "/react_taco/precache-manifest.419fca763089941f418db9a466f9d51d.js",
+    "precache-manifest.3b342d16bc7e6cc7ee61316ca80b6aed.js": "/react_taco/precache-manifest.3b342d16bc7e6cc7ee61316ca80b6aed.js",
     "service-worker.js": "/react_taco/service-worker.js",
     "static/css/main.5facb584.chunk.css.map": "/react_taco/static/css/main.5facb584.chunk.css.map",
-    "static/js/2.a3fc3ffc.chunk.js.LICENSE.txt": "/react_taco/static/js/2.a3fc3ffc.chunk.js.LICENSE.txt"
+    "static/js/2.e279b4ef.chunk.js.LICENSE.txt": "/react_taco/static/js/2.e279b4ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c42bc93c.js",
-    "static/js/2.a3fc3ffc.chunk.js",
+    "static/js/2.e279b4ef.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.849cc7a4.chunk.js"
+    "static/js/main.bb8f132e.chunk.js"
   ]
 }
